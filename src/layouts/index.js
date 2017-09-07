@@ -22,7 +22,7 @@ const TemplateWrapper = ({ children }) => (
     <div
       style={{
         height: '100vh',
-        backgroundImage: 'url(http://res.cloudinary.com/peterpme/image/upload/c_scale,f_auto,w_1061/v1504819892/hero-bg.jpg)',
+        backgroundImage: 'url(http://res.cloudinary.com/peterpme/image/upload/q_80,f_auto,w_1400/v1504819892/hero-bg.jpg)',
         backgroundSize: 'cover',
         display: 'flex',
         alignItems: 'center',
