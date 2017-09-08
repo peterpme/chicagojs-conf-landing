@@ -37,14 +37,11 @@ const Button = ({ label, href }) => (
 
 const IndexPage = () => (
   <header style={headerDivStyles}>
-    <h1 style={headerStyles}>ChicagoJS Conf</h1>
+    <h1 style={headerStyles}>ChicagoJS Conf 2018</h1>
     <nav>
       <ul style={{ listStyle: 'none'}}>
         <li style={inline}>
-          <Button label="Volunteer" href="https://goo.gl/forms/u5gyIxMZNZKAlSKr2"/>
-        </li>
-        <li style={inline}>
-          <Link style={buttonStyles} to="/mailing-list">Subscribe</Link>
+          <Button label="Contact & Volunteer" href="https://goo.gl/forms/u5gyIxMZNZKAlSKr2"/>
         </li>
       </ul>
     </nav>
