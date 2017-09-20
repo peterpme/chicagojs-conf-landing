@@ -13,7 +13,7 @@ const TemplateWrapper = ({ children }) => (
         {
           name: 'description',
           content:
-            'Windy City Javascript Conference coming to Chicago Fall of 2018',
+            'ChicagoJS Conference coming to Chicago Summer of 2018',
         },
         { name: 'keywords', content: 'javascript, conference, chicago, tech' },
       ]}
