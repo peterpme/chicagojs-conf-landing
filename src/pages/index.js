@@ -12,7 +12,7 @@ const headerStyles = {
   color: 'white',
   fontSize: 120,
   fontWeight: 700,
-  margin: '0 0 30px 0'
+  margin: '0 0 30px 0',
 }
 
 const buttonStyles = {
@@ -23,27 +23,38 @@ const buttonStyles = {
   color: '#fff',
   borderRadius: 4,
   padding: 15,
-  textDecoration: 'none'
+  textDecoration: 'none',
 }
 
 const inline = {
   display: 'inline-block',
-  margin: '0 5px'
+  margin: '0 5px',
 }
 
 const Button = ({ label, href }) => (
-  <a style={buttonStyles} rel="nofollow" href={href} title={label} target="_blank">{label}</a>
+  <a
+    style={buttonStyles}
+    rel="nofollow"
+    href={href}
+    title={label}
+    target="_blank"
+  >
+    {label}
+  </a>
 )
 
 const IndexPage = () => (
   <header style={headerDivStyles}>
     <img src="http://res.cloudinary.com/peterpme/image/upload/v1505915356/chicagojsconflogo_ukts91.svg" />
     <br />
-    <br/>
+    <br />
     <nav>
-      <ul style={{ listStyle: 'none'}}>
+      <ul style={{ listStyle: 'none' }}>
         <li style={inline}>
-          <Button label="Contact & Volunteer" href="https://goo.gl/forms/u5gyIxMZNZKAlSKr2"/>
+          <Button
+            label="Contact & Volunteer"
+            href="https://goo.gl/forms/u5gyIxMZNZKAlSKr2"
+          />
         </li>
       </ul>
     </nav>
