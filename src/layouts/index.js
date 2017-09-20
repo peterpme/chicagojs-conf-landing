@@ -19,7 +19,7 @@ const TemplateWrapper = ({ children }) => (
       ]}
       link={[
         {
-          href: 'https://fonts.googleapis.com/css?family=Inconsolata:400,700',
+          href: 'https://fonts.googleapis.com/css?family=Oswald:300,400',
           rel: 'stylesheet',
         },
       ]}

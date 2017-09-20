@@ -3,25 +3,26 @@ import Link from 'gatsby-link'
 
 const headerDivStyles = {
   margin: '40px auto',
+  padding: 10,
   textAlign: 'center',
   zIndex: 1,
 }
 
-const headerStyles = {
-  fontFamily: 'Inconsolata, mono',
-  color: 'white',
-  fontSize: 120,
-  fontWeight: 700,
-  margin: '0 0 30px 0',
+const infoStyles = {
+  fontFamily: "'Oswald', sans-serif",
+  fontWeight: 400,
+  fontSize: 18,
+  color: '#fff',
 }
 
 const buttonStyles = {
-  fontFamily: 'Inconsolata, mono',
+  fontFamily: "'Oswald', sans-serif",
   fontWeight: 400,
   fontSize: 22,
   backgroundColor: '#66bbe5',
   color: '#fff',
   borderRadius: 4,
+  letterSpacing: 1,
   padding: 15,
   textDecoration: 'none',
 }
@@ -45,7 +46,7 @@ const Button = ({ label, href }) => (
 
 const IndexPage = () => (
   <header style={headerDivStyles}>
-    <img src="http://res.cloudinary.com/peterpme/image/upload/c_scale,f_auto,w_465/v1505915996/chicagojsconflogo_2x_xec51c.png" alt="ChicagoJS logo" />
+    <img src="https://res.cloudinary.com/peterpme/image/upload/f_auto,q_100,w_400/v1505917113/logo.png" alt="ChicagoJS logo" />
     <br />
     <br />
     <nav>
