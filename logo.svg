@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="455px" height="258px" viewBox="0 0 455 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>chicagojsconflogo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chicagojsconflogo" transform="translate(-3.000000, -33.000000)" fill="#FFFFFF">
+            <text id="ChicagoJS" font-family="Oswald-Regular, Oswald Regular" font-size="125" font-weight="normal" letter-spacing="-0.75">
+                <tspan x="5" y="136">ChicagoJS</tspan>
+            </text>
+            <text id="CONFERENCE" font-family="Oswald-Light, Oswald" font-size="60" font-weight="300" letter-spacing="20">
+                <tspan x="0" y="230">CONFERENC</tspan>
+                <tspan x="435.380859" y="230">E</tspan>
+            </text>
+            <text id="2018" font-family="Oswald-Bold, Oswald" font-size="40" font-weight="bold" letter-spacing="-0.24000001">
+                <tspan x="375" y="290">2018</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

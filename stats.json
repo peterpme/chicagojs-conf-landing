@@ -1,8 +1,16 @@
 {
   "assetsByChunkName": {
+    "path---volunteer": [
+      "path---volunteer-a0e39f21c11f6a62c5ab.js",
+      "path---volunteer-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-volunteer-js": [
+      "component---src-pages-volunteer-js-fcf82053c411e92c032f.js",
+      "component---src-pages-volunteer-js-fcf82053c411e92c032f.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-cbf1107c4b90d4bf6b4c.js",
-      "component---src-pages-index-js-cbf1107c4b90d4bf6b4c.js.map"
+      "component---src-pages-index-js-666e24851f6241965efb.js",
+      "component---src-pages-index-js-666e24851f6241965efb.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -12,9 +20,13 @@
       "path---mailing-list-a0e39f21c11f6a62c5ab.js",
       "path---mailing-list-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---sponsor": [
+      "path---sponsor-a0e39f21c11f6a62c5ab.js",
+      "path---sponsor-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-db0a3131bfc9e90a27b6.js",
-      "component---src-layouts-index-js-db0a3131bfc9e90a27b6.js.map"
+      "component---src-layouts-index-js-9ad959760f688731acdd.js",
+      "component---src-layouts-index-js-9ad959760f688731acdd.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -25,22 +37,26 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-07cc4bd56523cc910c39.js",
-      "commons-07cc4bd56523cc910c39.js.map"
+      "commons-0853e9823e949d24ddf9.js",
+      "commons-0853e9823e949d24ddf9.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-cf040568e2d661360ecb.js",
+      "app-4172493fc8f25ff09e46.js",
       "build-js-styles.css",
-      "app-cf040568e2d661360ecb.js.map",
+      "app-4172493fc8f25ff09e46.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-mailing-list-js": [
-      "component---src-pages-mailing-list-js-a8588d5d966568bbbdcc.js",
-      "component---src-pages-mailing-list-js-a8588d5d966568bbbdcc.js.map"
+      "component---src-pages-mailing-list-js-c9d0cae833fde54497cc.js",
+      "component---src-pages-mailing-list-js-c9d0cae833fde54497cc.js.map"
+    ],
+    "component---src-pages-sponsor-js": [
+      "component---src-pages-sponsor-js-38eb2109231d6e6360ac.js",
+      "component---src-pages-sponsor-js-38eb2109231d6e6360ac.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
