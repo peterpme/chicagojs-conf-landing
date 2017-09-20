@@ -37,7 +37,9 @@ const Button = ({ label, href }) => (
 
 const IndexPage = () => (
   <header style={headerDivStyles}>
-    <h1 style={headerStyles}>ChicagoJS Conf 2018</h1>
+    <img src="http://res.cloudinary.com/peterpme/image/upload/v1505915356/chicagojsconflogo_ukts91.svg" />
+    <br />
+    <br/>
     <nav>
       <ul style={{ listStyle: 'none'}}>
         <li style={inline}>
