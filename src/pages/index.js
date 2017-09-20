@@ -45,7 +45,7 @@ const Button = ({ label, href }) => (
 
 const IndexPage = () => (
   <header style={headerDivStyles}>
-    <img src="http://res.cloudinary.com/peterpme/image/upload/v1505915356/chicagojsconflogo_ukts91.svg" />
+    <img src="https://res.cloudinary.com/peterpme/image/upload/v1505915356/chicagojsconflogo_ukts91.png" />
     <br />
     <br />
     <nav>
