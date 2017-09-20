@@ -8,7 +8,7 @@ import './index.css'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Windy City JS Conference | Coming Soon"
+      title="ChicagoJS Conference | Summer 2018"
       meta={[
         {
           name: 'description',
